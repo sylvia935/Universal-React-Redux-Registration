@@ -2,12 +2,12 @@
   "db": "mongodb://localhost/playground",
   "jwtPrivateKey": "",
   "mailServer": {
-    "host": "-HOST-",
+    "host": "Smtp.gmail.com",
     "auth": {
       "user": "",
       "pass": ""
     },
-    "from": "-FROM-EMAIL-",
+    "from": "sylviatian935@gmail.com",
     "subject": "Password Reset"
   }
 }
